@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prateekdegaons1991
 - 👀 I’m interested in python and automation 
-- 🌱 I’m currently exploring python and devOps
+- 🌱 I’m currently brewing python and kubernetes. . . 
 - 📫 How to reach me:  prateekdegaons1991@outlook.com
 
 <!---
