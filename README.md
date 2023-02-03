@@ -1,5 +1,4 @@
-<h2 align="center"> Hi 👋 , I'm Pratik Degaon S <br/></h2> 
-<h3 align="center">Also known as "PSD" <br> <br>
+<h2 align="center"> Hi 👋 , I'm Pratik <br/></h2> 
 
 - 👋 Hi, I’m @prateekdegaons1991
 - 👀 I’m interested in python and automation 
