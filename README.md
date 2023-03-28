@@ -1,6 +1,7 @@
 <h2 align="center"> Hi 👋 , I'm Pratik <br/></h2> 
 
-- 👋 Hi, I’m @prateekdegaons1991
+- 👋 Hi,
+- currently colaburationg with Mercedes-benz Research and Development India
 - 👀 I’m interested in python and automation 
 - 🌱 I’m currently brewing python and kubernetes. . . 
 - 📫 How to reach me:  prateekdegaons1991@outlook.com
