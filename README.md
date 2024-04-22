@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I am Pratik Degaon,<br>👨‍💻currently colaburating with Mercedes-benz Research and Development India<br>👀 I’m interested in python and automation<br>🌱 I’m currently brewing python and kubernetes. . .<br>📫 How to reach me: prateekdegaon@icloud.com<br>currently learning Django<br>
+👋 Hi, I am Pratik Degaon,<br>👨‍💻currently colaburating with Mercedes-benz Research and Development India<br>👀 I’m interested in python and automation<br>🌱 I’m currently brewing python and kubernetes. . .<br>📫 How to reach me: prateekdegaon@icloud.com<br>currently learning GO<br>
 
 
 ## 🌐 Socials:
