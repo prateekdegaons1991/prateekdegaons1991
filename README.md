@@ -1,7 +1,5 @@
-<p align="center"><a href="#"><img width="80%" alt="Hello, I'm Prateek. devSecOps!" src="./assets/gh-readme-header.png" /></a></p>
-
 # 💫 About Me:
-👨‍💻currently colaburating with Mercedes-benz Research and Development India<br>👀 Interested Platform Engineering<br>🌱 I’m currently brewing python and kubernetes. . .<br>📫 How to reach me: prateekdegaon@icloud.com<br>fiddling GO<br>
+👋 Hi, I am Pratik Degaon,<br>👨‍💻currently colaburating with Mercedes-benz Research and Development India<br>👀 Interested Platform Engineering<br>🌱 I’m currently brewing python and kubernetes. . .<br>📫 How to reach me: prateekdegaon@icloud.com<br>fiddling GO<br>
 
 
 ## 🌐 Socials:
